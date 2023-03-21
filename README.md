@@ -1,1 +1,1 @@
-Este arichivo es una prueba de creacion de repositorio anashex
+Este arichivo es una prueba de creacion de repositorio 
